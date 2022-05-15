@@ -1,1 +1,0 @@
-		self.on_cleanup()		
